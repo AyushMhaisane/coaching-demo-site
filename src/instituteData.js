@@ -3,8 +3,8 @@
 export const instituteData = {
   name: "Brighter Coaching Institute",
   tagline: "The Trusted Name in Nigdi Pradhikaran", // Stronger tagline
-  phone: "+91 98765 43210",
-  whatsappLink: "https://wa.me/919876543210",
+  phone: "+91 90754 84196",
+  whatsappLink: "https://wa.me/9075484196",
   
   // --- IMAGES (Using Unsplash source URLs for demo) ---
   // Hero Image: Students studying happily
